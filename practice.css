@@ -1,0 +1,31 @@
+h1{
+
+    color: blue;
+    background-color: red;
+    text-decoration: darkblue;
+    size: 100px;
+
+}
+
+
+h1 > strong{
+    color: aqua;
+    
+
+}
+
+
+h2{
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    width: auto;
+}
+
+
+h3{
+    text-align: right;
+    color: black;
+    background-color: teal;
+    text-decoration: underline;
+}
